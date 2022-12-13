@@ -16,13 +16,13 @@
     width: 100vw;
     height: 3px;
     background-color: #ffffff;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 .linha2-est{
     width: 100vw;
     height: 3px;
     background-color: #ffffff;
-    margin-top: 250px;
+    margin-top: 30px;
 }
 
 .estadio-desc{
@@ -50,18 +50,18 @@
 
 .estadio1{
     position: absolute;
-    top: 2600px;
-    left: 1350px;
+    top: 2050px;
+    left: 1150px;
 }
 .estadio2{
     position: absolute;
-    top: 2900px;
-    left: 1050px;
+    top: 2400px;
+    left: 850px;
 }
 .estadio3{
     position: absolute;
-    top: 2900px;
-    left: 1650px;
+    top: 2400px;
+    left: 1450px;
 }
 
 /* Responsividade */
