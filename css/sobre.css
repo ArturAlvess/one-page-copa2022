@@ -50,7 +50,7 @@
 
 .tabela{
   position: absolute;  
-  width: 720px;
+  width: 620px;
   height: 650px;
   left: 1250px;
   top: 1420px;
@@ -82,7 +82,7 @@
         font-size: 20px;
     }
     .sobre-title-image{
-        margin-left: px;
+        margin-left: 100px;
     }
     .tabela{
         position: absolute;
