@@ -14,7 +14,6 @@ body{
 
 header{
     place-self: start center;
-   
     grid-area: content;
     font-family: 'Kanit', sans-serif;
     color: #ffffff;
@@ -22,24 +21,24 @@ header{
     z-index: 1;
 }
 
-.header_text{
+.header-text{
     display: grid;
     justify-content: center;
     margin-top: 30px;
     font-family: 'Kanit', sans-serif;
     font-weight: bold;
     border-bottom: 4px solid transparent;
-    transition: border-color 1s;
+    transition:border-color 1s;
 }
 
-.header_text:hover, .header_text:focus{
+.header-text:hover,.header-text:focus{
     color:#bf3956;
     border-bottom: 3px solid;
     transform: scale(1.1);
     transition: .7s;
 }
 
-.img_header{
+.img-header{
     margin-top: 15px;
     width: 74px;
     height: 74px;
@@ -50,7 +49,7 @@ header{
 }
     
 
-.header_square{
+.header-square{
     height: 100px;
     width: 100vw;
     background-color: #8d0034;
@@ -69,12 +68,12 @@ section{
 }
 
 @media(max-width: 640px){
-    .header_square{
+    .header-square{
         width: 100vw;
         height: 80px;
        
     }
-    .header_text{
+    .header-text{
         display: grid;
         justify-content: center;
         margin-top: 30px;
@@ -85,7 +84,7 @@ section{
         border-bottom: 4px solid transparent;
         transition: border-color 1s;
     }
-    .img_header{
+    .img-header{
         display: none;
     }
     .copa{
