@@ -1,1 +1,1 @@
-# one-page-copa2022
+# copa-one-page
